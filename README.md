@@ -10,7 +10,7 @@
 
 # 使用方法
 
-在macOS允许`RPush`
+APNs支持两种认证方式，一种是Certificate-Based（证书认证），另一种是Token-Based（Token认证），您可选择其中一个鉴权方式测试推送功能是否正常。在MacOS运行`RPush`软件后：
 
 ## 使用推送证书发送
 - 选中鉴权方式为：`Push Certificate Based`
