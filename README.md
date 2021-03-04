@@ -2,11 +2,11 @@
 一个使用纯Swift编写的可运行在Mac OS的APNs测试工具，支持基于推送证书及Token认证两种鉴权方式。
 
 # 软件截图
-基于推送证书：
-![证书授权软件截图](https://raw.githubusercontent.com/nevermore-imba/RPush/master/screenshots/certificate_based_ screenshot.png)
+### 基于推送证书：
+![证书授权软件截图](https://raw.githubusercontent.com/nevermore-imba/RPush/main/RPush/screenshots/certificate_based_screenshot.png)
 
-基于Token认证：
-![Token授权软件截图](https://raw.githubusercontent.com/nevermore-imba/RPush/master/screenshots/token_auth_based_screenshot.png)
+### 基于Token认证：
+![Token授权软件截图](https://raw.githubusercontent.com/nevermore-imba/RPush/main/RPush/screenshots/token_auth_based_screenshot.png)
 
 # 使用方法
 
